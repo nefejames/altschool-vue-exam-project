@@ -1,3 +1,3 @@
 # My AltSchool 3rd Semester Exam Project
 
-See [View the project via the live link](https://altschool-vue-exam-project.vercel.app/)
+[View the project via the live link](https://altschool-vue-exam-project.vercel.app/)
